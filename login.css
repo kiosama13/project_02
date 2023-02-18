@@ -1,4 +1,5 @@
-h2 {
-    color:yellow;
-    font-size: 50px;
+html,body {
+    margin:0;
+    padding:0;
+    background-color: red;
 }
